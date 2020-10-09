@@ -1,7 +1,8 @@
 ---
 title: What are Lists?
+category: lists
 ---
- 
+
 # What are Lists?
 A "List" is a list of words that Find searches for simultaneously. The words that a list contains are called [Words to Find](/Lists-WhatIsAWordToFind.md).
 
