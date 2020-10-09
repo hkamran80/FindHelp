@@ -5,14 +5,17 @@ Find is Command+F for Camera.
 
 ## Help:
 
-Lists:
+### Lists
 - [What are Lists?](https://aheze.github.io/FindHelp/Lists-WhatAreLists.html)
 - [How do I delete a List?](https://aheze.github.io/FindHelp/Lists-DeleteList.html)
 - [What is a "Word to Find"?](https://aheze.github.io/FindHelp/Lists-WhatIsAWordToFind.html)
 - [How do I add a word?](https://aheze.github.io/FindHelp/Lists-AddWord.html)
 - [How do I delete a word?](https://aheze.github.io/FindHelp/Lists-DeleteWord.html)
 
-Photos:
+### History
+- [What is the Cache?](/FindHelp/History/WhatIsTheCache)
+
+### Photos
 - [Photos Controls](https://aheze.github.io/FindHelp/Photos-PhotosControls.html)
 - [What is the Cache?](https://aheze.github.io/FindHelp/Photos-WhatIsTheCache.html)
 - [How do I cache photos?](https://aheze.github.io/FindHelp/Photos-CachePhotos.html)
@@ -21,7 +24,7 @@ Photos:
 - [What does Hearting do?](https://aheze.github.io/FindHelp/Photos-Hearting.html)
 - [How do I find from ALL my photos?](https://aheze.github.io/FindHelp/Photos-FindFromAllPhotos.html)
 
-General:
+### General
 - [I've found a bug. Can I send feedback?](https://aheze.github.io/FindHelp/FoundBug-SendFeedback.html)
 
 
