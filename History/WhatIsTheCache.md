@@ -1,6 +1,6 @@
 ---
 title: What is the Cache?
-categories: ["history"]
+category: history
 ---
 
 # What is the Cache? 
