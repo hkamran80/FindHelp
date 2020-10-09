@@ -1,6 +1,6 @@
 ---
 title: How to add a word
-categories: ["lists"]
+category: lists
 ---
 
 # How to add a word
