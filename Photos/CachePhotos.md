@@ -1,5 +1,6 @@
 ---
 title: Caching photos
+category: photos
 ---
 
 # How do I cache photos?
