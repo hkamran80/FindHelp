@@ -2,6 +2,7 @@
 
 Find is Command+F for Camera.
 > [Send Feedback](/FindHelp/SendFeedback)
+
 > [Privacy Policy](/FindHelp/PrivacyPolicy)
 
 ## Help
