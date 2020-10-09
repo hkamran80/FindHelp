@@ -1,6 +1,8 @@
 ---
 title: How do I delete a list?
+category: lists
 ---
+
 # How do I delete a list?
 
 **If you want to delete a couple of Lists:**
