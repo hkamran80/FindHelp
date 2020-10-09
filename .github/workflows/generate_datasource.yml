@@ -1,5 +1,4 @@
 name: "Generate Data Source"
-description: "Generate the JSON data sources that Find uses to display support pages"
 on:
     push:
         branches:
