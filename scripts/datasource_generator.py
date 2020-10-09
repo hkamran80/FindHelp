@@ -44,7 +44,7 @@ if __name__ == "__main__":
     directory_list = [
         directory
         for directory in next(os.walk("."))[1]
-        if directory not in ("images", "Changelogs")
+        if directory not in ("images", "Changelogs", "scripts", "data")
         and not directory.startswith("_")
         and not directory.startswith(".")
     ]
@@ -54,8 +54,9 @@ if __name__ == "__main__":
             fm = parse_markdown(os.path.abspath(directory + "/" + file))
             add_help(fm["title"], directory, file.replace(".md", ""), fm["category"])
 
-    with open("data.json", "w") as data_json:
+    os.mkdir("data")
+    with open("data/data.json", "w") as data_json:
         data_json.write(json.dumps(data, indent=4))
 
-    with open("categories.json", "w") as categories_json:
+    with open("data/categories.json", "w") as categories_json:
         categories_json.write(json.dumps(categories, indent=4))
