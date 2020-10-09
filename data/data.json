@@ -1,0 +1,100 @@
+{
+    "HapticFeedback": {
+        "title": "Haptic Feedback",
+        "url": "https://hkamran80.github.io/FindHelp/Settings/HapticFeedback",
+        "categories": [
+            "settings"
+        ]
+    },
+    "TextDetectionIndicator": {
+        "title": "Text Detection Indicator",
+        "url": "https://hkamran80.github.io/FindHelp/Settings/TextDetectionIndicator",
+        "categories": [
+            "settings"
+        ]
+    },
+    "FindingTakesALongTime": {
+        "title": "Finding Takes a Long Time",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/FindingTakesALongTime",
+        "categories": [
+            "photos"
+        ]
+    },
+    "CachingPhotos": {
+        "title": "Caching Photos",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/CachingPhotos",
+        "categories": [
+            "photos"
+        ]
+    },
+    "WhatIsTheCache": {
+        "title": "What is the Cache?",
+        "url": "https://hkamran80.github.io/FindHelp/History/WhatIsTheCache",
+        "categories": [
+            "history"
+        ]
+    },
+    "Favoriting": {
+        "title": "Favoriting",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/Favoriting",
+        "categories": [
+            "photos"
+        ]
+    },
+    "FindFromAllPhotos": {
+        "title": "Find From All Photos",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/FindFromAllPhotos",
+        "categories": [
+            "photos"
+        ]
+    },
+    "Controls": {
+        "title": "Photos Controls",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/Controls",
+        "categories": [
+            "photos"
+        ]
+    },
+    "UncachingPhotos": {
+        "title": "Uncaching Photos",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/UncachingPhotos",
+        "categories": [
+            "photos"
+        ]
+    },
+    "WhatAreLists": {
+        "title": "What are Lists?",
+        "url": "https://hkamran80.github.io/FindHelp/Lists/WhatAreLists",
+        "categories": [
+            "lists"
+        ]
+    },
+    "DeletingWords": {
+        "title": "Deleting Words",
+        "url": "https://hkamran80.github.io/FindHelp/Lists/DeletingWords",
+        "categories": [
+            "lists"
+        ]
+    },
+    "DeletingLists": {
+        "title": "Deleting Lists",
+        "url": "https://hkamran80.github.io/FindHelp/Lists/DeletingLists",
+        "categories": [
+            "lists"
+        ]
+    },
+    "AddingWords": {
+        "title": "Adding Words",
+        "url": "https://hkamran80.github.io/FindHelp/Lists/AddingWords",
+        "categories": [
+            "lists"
+        ]
+    },
+    "WhatIsAWordToFind": {
+        "title": "What is a Word to Find?",
+        "url": "https://hkamran80.github.io/FindHelp/Lists/WhatIsAWordToFind",
+        "categories": [
+            "lists"
+        ]
+    }
+}
