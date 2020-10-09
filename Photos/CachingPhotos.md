@@ -1,9 +1,9 @@
 ---
-title: Caching photos
+title: Caching Photos
 category: photos
 ---
 
-# How do I cache photos?
+# Caching Photos
 
 It's easy! You can even cache multiple photos at the same time.
 

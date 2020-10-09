@@ -4,7 +4,8 @@ category: lists
 ---
 
 # What are Lists?
-A "List" is a list of words that Find searches for simultaneously. The words that a list contains are called [Words to Find](/Lists-WhatIsAWordToFind.md).
+
+A "List" is a list of words that Find searches for simultaneously. The words that a list contains are called [Words to Find](/Lists/WhatIsAWordToFind).
 
 When you first install Find, 2 pre-made lists are at your disposal:
 - Gluten-Free
@@ -19,13 +20,13 @@ __Example:__ You make a list, called "Nature". It contains the following words:
 
 Now, when you use this list, Find will search for "Tree", "Rock", "Fish", and "Stick" at the same time.
 
-## Making your list
+## Creating a list
 1. Start at the home screen of Find.
 2. Tap the **menu** button (The 3x3 dot grid), and then tap the **Lists** button
 3. Press the <img src="https://raw.githubusercontent.com/zjohnzheng/FindHelp/master/images/addList.jpg" height="22"> button
 4. The **List Builder** will appear! Add a name, description, and some words
 
-## Customizing your list
+## Customizing a list
 __Changing the icon__
 1. Tap **Icon**
 2. Select an icon
@@ -38,8 +39,7 @@ __Changing the color__
 
 > Tip: When you use the list, your selected color will be the highlight color of search results.
 
-## Using your list
-
+## Using a list
 In Find, you can search for text either:
 - in the home screen (using the camera)
 - in Photos

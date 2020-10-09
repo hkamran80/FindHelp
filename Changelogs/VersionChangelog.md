@@ -1,7 +1,9 @@
 ---
-title: Find Version Changelog
+title: Version Changelog
+category: changelogs
 ---
-# Find's Changelog
+
+# Version Changelog
 **Below you can see the history of Find!**
 
 ## 1.0 _April 5, 2020_

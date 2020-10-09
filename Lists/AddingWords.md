@@ -1,9 +1,10 @@
 ---
-title: How to add a word
+title: Adding Words
 category: lists
 ---
 
-# How to add a word
+# Adding Words
+
 You can add a new word in 2 ways:
 - Press the **Add word** button
 - Start editing an existing word, then press **next** on the keyboard.

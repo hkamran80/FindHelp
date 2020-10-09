@@ -1,30 +1,30 @@
 # Welcome to Find!
 
 Find is Command+F for Camera.
-> [Privacy Policy](https://aheze.github.io/FindHelp/PrivacyPolicy.html)
+> [Send Feedback](/FindHelp/SendFeedback)
+> [Privacy Policy](/FindHelp/PrivacyPolicy)
 
-## Help:
+## Help
 
 ### Lists
-- [What are Lists?](https://aheze.github.io/FindHelp/Lists-WhatAreLists.html)
-- [How do I delete a List?](https://aheze.github.io/FindHelp/Lists-DeleteList.html)
-- [What is a "Word to Find"?](https://aheze.github.io/FindHelp/Lists-WhatIsAWordToFind.html)
-- [How do I add a word?](https://aheze.github.io/FindHelp/Lists-AddWord.html)
-- [How do I delete a word?](https://aheze.github.io/FindHelp/Lists-DeleteWord.html)
+- [What are Lists?](/FindHelp/Lists/WhatAreLists)
+- [Deleting a List](/FindHelp/Lists/DeletingLists)
+- [What is a "Word to Find"?](/FindHelp/Lists/WhatIsAWordToFind)
+- [Adding Words](/FindHelp/Lists/AddingWords)
+- [Deleting Words](/FindHelp/Lists/DeletingWords)
 
 ### History
 - [What is the Cache?](/FindHelp/History/WhatIsTheCache)
 
 ### Photos
-- [Photos Controls](https://aheze.github.io/FindHelp/Photos-PhotosControls.html)
-- [What is the Cache?](https://aheze.github.io/FindHelp/Photos-WhatIsTheCache.html)
-- [How do I cache photos?](https://aheze.github.io/FindHelp/Photos-CachePhotos.html)
-- [How do I uncache photos?](https://aheze.github.io/FindHelp/Photos-UncachePhotos.html)
-- [Why does Finding from Photos take so long?](https://aheze.github.io/FindHelp/Photos-TakeLongTime.html)
-- [What does Hearting do?](https://aheze.github.io/FindHelp/Photos-Hearting.html)
-- [How do I find from ALL my photos?](https://aheze.github.io/FindHelp/Photos-FindFromAllPhotos.html)
+- [Controls](/FindHelp/Photos/Controls)
+- [What is the Cache?](/FindHelp/Photos/WhatIsTheCache)
+- [Caching Photos](/FindHelp/Photos/CachingPhotos)
+- [Uncaching Photos](/FindHelp/Photos/UncachingPhotos)
+- [Why does Finding from Photos take so long?](/FindHelp/Photos/FindingTakesALongTime)
+- [Favoriting](/FindHelp/Photos/Favoriting)
+- [How do I find from ALL my photos?](/FindHelp/Photos/FindFromAllPhotos)
 
-### General
-- [I've found a bug. Can I send feedback?](https://aheze.github.io/FindHelp/FoundBug-SendFeedback.html)
-
-
+### Settings
+- [Haptic Feedback](/FindHelp/Settings/HapticFeedback)
+- [Text Detection Indicator](/FindHelp/Settings/TextDetectionIndicator)

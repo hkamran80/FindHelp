@@ -1,6 +1,8 @@
 ---
 title: What is the Cache?
+category: photos
 --- 
+
 # What is the Cache? 
 
 Find works by using OCR (Optical Character Recognition) to search for text in photos. But because OCR is often time-consuming, Find has a feature called caching.

@@ -1,9 +1,9 @@
 ---
-title: How to delete a word
+title: Deleting Words
 category: lists
 ---
 
-# How to delete a word
+# Deleting Words
 
 Just swipe left on a word, then tap **Delete**!
 

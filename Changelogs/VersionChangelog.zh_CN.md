@@ -1,7 +1,9 @@
 ---
-title: Find Version Changelog
+title: Version Changelog - Simplified Chinese
+category: changelogs
 ---
-# Find's Changelog
+
+# Version Changelog
 **Below you can see the history of Find _in Chinese_, starting from v1.1.0!**<br>
 **从v1.1.0开始，您可以在下面看到Find的历史记录！**
 
