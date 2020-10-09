@@ -1,6 +1,8 @@
 ---
 title: How to add a word
---- 
+categories: ["lists"]
+---
+
 # How to add a word
 You can add a new word in 2 ways:
 - Press the **Add word** button
