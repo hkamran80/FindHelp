@@ -1,0 +1,25 @@
+{
+    "settings": [
+        "HapticFeedback",
+        "TextDetectionIndicator"
+    ],
+    "photos": [
+        "FindingTakesALongTime",
+        "CachingPhotos",
+        "WhatIsTheCache",
+        "Favoriting",
+        "FindFromAllPhotos",
+        "Controls",
+        "UncachingPhotos"
+    ],
+    "lists": [
+        "WhatAreLists",
+        "DeletingWords",
+        "DeletingLists",
+        "AddingWords",
+        "WhatIsAWordToFind"
+    ],
+    "history": [
+        "WhatIsTheCache"
+    ]
+}
