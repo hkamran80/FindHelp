@@ -36,10 +36,25 @@ def parse_markdown(path: str):
 
     return metadata
 
+def remove_preexisting_data():
+    if os.path.exists(os.path.abspath("categories.json")):
+        os.remove(os.path.abspath("categories.json"))
+    
+    if os.path.exists(os.path.abspath("data.json")):
+        os.remove(os.path.abspath("data.json"))
+
+    if os.path.exists(os.path.abspath("data/categories.json")):
+        os.remove(os.path.abspath("data/categories.json"))
+    
+    if os.path.exists(os.path.abspath("data/data.json")):
+        os.remove(os.path.abspath("data/data.json"))
+
 
 if __name__ == "__main__":
     data = {}
     categories = {}
+
+    remove_preexisting_data()
 
     directory_list = [
         directory
@@ -54,7 +69,9 @@ if __name__ == "__main__":
             fm = parse_markdown(os.path.abspath(directory + "/" + file))
             add_help(fm["title"], directory, file.replace(".md", ""), fm["category"])
 
-    os.mkdir("data")
+    if not os.path.isdir(os.path.abspath("data")):
+        os.mkdir("data")
+    
     with open("data/data.json", "w") as data_json:
         data_json.write(json.dumps(data, indent=4))
 
