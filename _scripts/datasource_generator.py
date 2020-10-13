@@ -13,15 +13,9 @@ import os
 GITHUB_USERNAME = os.environ.get("GITHUB_ACTOR")
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY").split("/")[1]
 DATA_JSON_FILE_PATH = "_data/data.json"
-CATEGORIES_JSON_FILE_PATH = "_data/categories.json"
 
 
 def add_help_file(title: str, directory: str, filename: str, category: str):
-    try:
-        categories_dictionary[category].append(filename)
-    except KeyError:
-        categories_dictionary[category] = [filename]
-
     data.append(
         {
             "id": filename,
@@ -37,19 +31,6 @@ def parse_markdown(path: str):
         metadata = frontmatter.load(md).metadata
 
     return metadata
-
-
-def convert_categories_dict(categories_dictionary: dict):
-    categories = []
-    for category_id in categories_dictionary:
-        categories.append(
-            {
-                "id": category_id,
-                "title": category_id.title(),
-                "help_documents": categories_dictionary[category_id],
-            }
-        )
-    return categories
 
 
 def remove_preexisting_data():
@@ -68,7 +49,6 @@ def remove_preexisting_data():
 
 if __name__ == "__main__":
     data = []
-    categories_dictionary = {}
 
     remove_preexisting_data()
 
@@ -95,10 +75,5 @@ if __name__ == "__main__":
     if not os.path.isdir(os.path.abspath("_data")):
         os.mkdir("_data")
 
-    categories = convert_categories_dict(categories_dictionary)
-
     with open(DATA_JSON_FILE_PATH, "w") as data_json:
         data_json.write(json.dumps(data, indent=4))
-
-    with open(CATEGORIES_JSON_FILE_PATH, "w") as categories_json:
-        categories_json.write(json.dumps(categories, indent=4))
