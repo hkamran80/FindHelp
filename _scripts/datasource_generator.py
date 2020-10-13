@@ -18,7 +18,6 @@ DATA_JSON_FILE_PATH = "_data/data.json"
 def add_help_file(title: str, directory: str, filename: str, category: str):
     data.append(
         {
-            "id": filename,
             "title": title,
             "url": f"https://{GITHUB_USERNAME}.github.io/{GITHUB_REPOSITORY}/{directory}/{filename}",
             "category": category,
