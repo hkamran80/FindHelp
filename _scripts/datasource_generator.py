@@ -16,19 +16,18 @@ DATA_JSON_FILE_PATH = "_data/data.json"
 CATEGORIES_JSON_FILE_PATH = "_data/categories.json"
 
 
-def add_help_file(title: str, directory: str, filename: str, md_categories: list):
-    for category in md_categories:
-        try:
-            categories_dictionary[category].append(filename)
-        except KeyError:
-            categories_dictionary[category] = [filename]
+def add_help_file(title: str, directory: str, filename: str, category: str):
+    try:
+        categories_dictionary[category].append(filename)
+    except KeyError:
+        categories_dictionary[category] = [filename]
 
     data.append(
         {
             "id": filename,
             "title": title,
             "url": f"https://{GITHUB_USERNAME}.github.io/{GITHUB_REPOSITORY}/{directory}/{filename}",
-            "categories": md_categories,
+            "category": category,
         }
     )
 
@@ -36,8 +35,6 @@ def add_help_file(title: str, directory: str, filename: str, md_categories: list
 def parse_markdown(path: str):
     with open(path) as md:
         metadata = frontmatter.load(md).metadata
-
-    metadata["category"] = metadata["category"].split(",")
 
     return metadata
 
@@ -95,8 +92,8 @@ if __name__ == "__main__":
                 help_file_frontmatter["category"],
             )
 
-    if not os.path.isdir(os.path.abspath("data")):
-        os.mkdir("data")
+    if not os.path.isdir(os.path.abspath("_data")):
+        os.mkdir("_data")
 
     categories = convert_categories_dict(categories_dictionary)
 
