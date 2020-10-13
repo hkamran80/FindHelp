@@ -1,117 +1,51 @@
 [
     {
-<<<<<<< HEAD
-        "id": "TextDetectionIndicator",
-        "title": "Text Detection Indicator",
-        "url": "https://hkamran80.github.io/FindHelp/Settings/TextDetectionIndicator",
-        "category": "settings"
-    },
-    {
-=======
->>>>>>> f0180276a8c4e874869c8700a0dbd10ccd705bcf
         "id": "HapticFeedback",
         "title": "Haptic Feedback",
         "url": "https://hkamran80.github.io/FindHelp/Settings/HapticFeedback",
         "category": "settings"
     },
     {
-<<<<<<< HEAD
-        "id": "DeletingLists",
-        "title": "Deleting Lists",
-        "url": "https://hkamran80.github.io/FindHelp/Lists/DeletingLists",
-        "category": "lists"
+        "id": "TextDetectionIndicator",
+        "title": "Text Detection Indicator",
+        "url": "https://hkamran80.github.io/FindHelp/Settings/TextDetectionIndicator",
+        "category": "settings"
     },
     {
-        "id": "WhatAreLists",
-        "title": "What are Lists?",
-        "url": "https://hkamran80.github.io/FindHelp/Lists/WhatAreLists",
-        "category": "lists"
+        "id": "FindingTakesALongTime",
+        "title": "Finding Takes a Long Time",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/FindingTakesALongTime",
+        "category": "photos"
     },
     {
-        "id": "DeletingWords",
-        "title": "Deleting Words",
-        "url": "https://hkamran80.github.io/FindHelp/Lists/DeletingWords",
-        "category": "lists"
-    },
-    {
-        "id": "WhatIsAWordToFind",
-        "title": "What is a Word to Find?",
-        "url": "https://hkamran80.github.io/FindHelp/Lists/WhatIsAWordToFind",
-        "category": "lists"
-    },
-    {
-        "id": "AddingWords",
-        "title": "Adding Words",
-        "url": "https://hkamran80.github.io/FindHelp/Lists/AddingWords",
-        "category": "lists"
-    },
-    {
-        "id": "WhatIsTheCache",
-        "title": "What is the Cache?",
-        "url": "https://hkamran80.github.io/FindHelp/History/WhatIsTheCache",
-        "category": "history"
+        "id": "CachingPhotos",
+        "title": "Caching Photos",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/CachingPhotos",
+        "category": "photos"
     },
     {
         "id": "WhatIsTheCache",
         "title": "What is the Cache?",
         "url": "https://hkamran80.github.io/FindHelp/Photos/WhatIsTheCache",
         "category": "photos"
-=======
-        "id": "TextDetectionIndicator",
-        "title": "Text Detection Indicator",
-        "url": "https://hkamran80.github.io/FindHelp/Settings/TextDetectionIndicator",
-        "categories": [
-            "settings"
-        ]
-    },
-    {
-        "id": "FindingTakesALongTime",
-        "title": "Finding Takes a Long Time",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/FindingTakesALongTime",
-        "categories": [
-            "photos"
-        ]
-    },
-    {
-        "id": "CachingPhotos",
-        "title": "Caching Photos",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/CachingPhotos",
-        "categories": [
-            "photos"
-        ]
-    },
-    {
-        "id": "WhatIsTheCache",
-        "title": "What is the Cache?",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/WhatIsTheCache",
-        "categories": [
-            "photos"
-        ]
     },
     {
         "id": "Favoriting",
         "title": "Favoriting",
         "url": "https://hkamran80.github.io/FindHelp/Photos/Favoriting",
-        "categories": [
-            "photos"
-        ]
+        "category": "photos"
     },
     {
         "id": "FindFromAllPhotos",
         "title": "Find From All Photos",
         "url": "https://hkamran80.github.io/FindHelp/Photos/FindFromAllPhotos",
-        "categories": [
-            "photos"
-        ]
+        "category": "photos"
     },
     {
         "id": "Controls",
         "title": "Photos Controls",
         "url": "https://hkamran80.github.io/FindHelp/Photos/Controls",
-        "categories": [
-            "photos"
-        ]
->>>>>>> f0180276a8c4e874869c8700a0dbd10ccd705bcf
+        "category": "photos"
     },
     {
         "id": "UncachingPhotos",
@@ -120,82 +54,39 @@
         "category": "photos"
     },
     {
-<<<<<<< HEAD
-        "id": "FindFromAllPhotos",
-        "title": "Find From All Photos",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/FindFromAllPhotos",
-        "category": "photos"
-    },
-    {
-        "id": "Favoriting",
-        "title": "Favoriting",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/Favoriting",
-        "category": "photos"
-    },
-    {
-        "id": "CachingPhotos",
-        "title": "Caching Photos",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/CachingPhotos",
-        "category": "photos"
-    },
-    {
-        "id": "FindingTakesALongTime",
-        "title": "Finding Takes a Long Time",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/FindingTakesALongTime",
-        "category": "photos"
-    },
-    {
-        "id": "Controls",
-        "title": "Photos Controls",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/Controls",
-        "category": "photos"
-=======
         "id": "WhatAreLists",
         "title": "What are Lists?",
         "url": "https://hkamran80.github.io/FindHelp/Lists/WhatAreLists",
-        "categories": [
-            "lists"
-        ]
+        "category": "lists"
     },
     {
         "id": "DeletingWords",
         "title": "Deleting Words",
         "url": "https://hkamran80.github.io/FindHelp/Lists/DeletingWords",
-        "categories": [
-            "lists"
-        ]
+        "category": "lists"
     },
     {
         "id": "DeletingLists",
         "title": "Deleting Lists",
         "url": "https://hkamran80.github.io/FindHelp/Lists/DeletingLists",
-        "categories": [
-            "lists"
-        ]
+        "category": "lists"
     },
     {
         "id": "AddingWords",
         "title": "Adding Words",
         "url": "https://hkamran80.github.io/FindHelp/Lists/AddingWords",
-        "categories": [
-            "lists"
-        ]
+        "category": "lists"
     },
     {
         "id": "WhatIsAWordToFind",
         "title": "What is a Word to Find?",
         "url": "https://hkamran80.github.io/FindHelp/Lists/WhatIsAWordToFind",
-        "categories": [
-            "lists"
-        ]
+        "category": "lists"
     },
     {
         "id": "WhatIsTheCache",
         "title": "What is the Cache?",
         "url": "https://hkamran80.github.io/FindHelp/History/WhatIsTheCache",
-        "categories": [
-            "history"
-        ]
->>>>>>> f0180276a8c4e874869c8700a0dbd10ccd705bcf
+        "category": "history"
     }
 ]
