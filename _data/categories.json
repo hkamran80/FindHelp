@@ -3,19 +3,32 @@
         "id": "settings",
         "title": "Settings",
         "help_documents": [
-            "TextDetectionIndicator",
-            "HapticFeedback"
+            "HapticFeedback",
+            "TextDetectionIndicator"
+        ]
+    },
+    {
+        "id": "photos",
+        "title": "Photos",
+        "help_documents": [
+            "FindingTakesALongTime",
+            "CachingPhotos",
+            "WhatIsTheCache",
+            "Favoriting",
+            "FindFromAllPhotos",
+            "Controls",
+            "UncachingPhotos"
         ]
     },
     {
         "id": "lists",
         "title": "Lists",
         "help_documents": [
-            "DeletingLists",
             "WhatAreLists",
             "DeletingWords",
-            "WhatIsAWordToFind",
-            "AddingWords"
+            "DeletingLists",
+            "AddingWords",
+            "WhatIsAWordToFind"
         ]
     },
     {
@@ -23,19 +36,6 @@
         "title": "History",
         "help_documents": [
             "WhatIsTheCache"
-        ]
-    },
-    {
-        "id": "photos",
-        "title": "Photos",
-        "help_documents": [
-            "WhatIsTheCache",
-            "UncachingPhotos",
-            "FindFromAllPhotos",
-            "Favoriting",
-            "CachingPhotos",
-            "FindingTakesALongTime",
-            "Controls"
         ]
     }
 ]

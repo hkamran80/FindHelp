@@ -1,13 +1,5 @@
 [
     {
-        "id": "TextDetectionIndicator",
-        "title": "Text Detection Indicator",
-        "url": "https://hkamran80.github.io/FindHelp/Settings/TextDetectionIndicator",
-        "categories": [
-            "settings"
-        ]
-    },
-    {
         "id": "HapticFeedback",
         "title": "Haptic Feedback",
         "url": "https://hkamran80.github.io/FindHelp/Settings/HapticFeedback",
@@ -16,11 +8,67 @@
         ]
     },
     {
-        "id": "DeletingLists",
-        "title": "Deleting Lists",
-        "url": "https://hkamran80.github.io/FindHelp/Lists/DeletingLists",
+        "id": "TextDetectionIndicator",
+        "title": "Text Detection Indicator",
+        "url": "https://hkamran80.github.io/FindHelp/Settings/TextDetectionIndicator",
         "categories": [
-            "lists"
+            "settings"
+        ]
+    },
+    {
+        "id": "FindingTakesALongTime",
+        "title": "Finding Takes a Long Time",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/FindingTakesALongTime",
+        "categories": [
+            "photos"
+        ]
+    },
+    {
+        "id": "CachingPhotos",
+        "title": "Caching Photos",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/CachingPhotos",
+        "categories": [
+            "photos"
+        ]
+    },
+    {
+        "id": "WhatIsTheCache",
+        "title": "What is the Cache?",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/WhatIsTheCache",
+        "categories": [
+            "photos"
+        ]
+    },
+    {
+        "id": "Favoriting",
+        "title": "Favoriting",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/Favoriting",
+        "categories": [
+            "photos"
+        ]
+    },
+    {
+        "id": "FindFromAllPhotos",
+        "title": "Find From All Photos",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/FindFromAllPhotos",
+        "categories": [
+            "photos"
+        ]
+    },
+    {
+        "id": "Controls",
+        "title": "Photos Controls",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/Controls",
+        "categories": [
+            "photos"
+        ]
+    },
+    {
+        "id": "UncachingPhotos",
+        "title": "Uncaching Photos",
+        "url": "https://hkamran80.github.io/FindHelp/Photos/UncachingPhotos",
+        "categories": [
+            "photos"
         ]
     },
     {
@@ -40,9 +88,9 @@
         ]
     },
     {
-        "id": "WhatIsAWordToFind",
-        "title": "What is a Word to Find?",
-        "url": "https://hkamran80.github.io/FindHelp/Lists/WhatIsAWordToFind",
+        "id": "DeletingLists",
+        "title": "Deleting Lists",
+        "url": "https://hkamran80.github.io/FindHelp/Lists/DeletingLists",
         "categories": [
             "lists"
         ]
@@ -56,67 +104,19 @@
         ]
     },
     {
+        "id": "WhatIsAWordToFind",
+        "title": "What is a Word to Find?",
+        "url": "https://hkamran80.github.io/FindHelp/Lists/WhatIsAWordToFind",
+        "categories": [
+            "lists"
+        ]
+    },
+    {
         "id": "WhatIsTheCache",
         "title": "What is the Cache?",
         "url": "https://hkamran80.github.io/FindHelp/History/WhatIsTheCache",
         "categories": [
             "history"
-        ]
-    },
-    {
-        "id": "WhatIsTheCache",
-        "title": "What is the Cache?",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/WhatIsTheCache",
-        "categories": [
-            "photos"
-        ]
-    },
-    {
-        "id": "UncachingPhotos",
-        "title": "Uncaching Photos",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/UncachingPhotos",
-        "categories": [
-            "photos"
-        ]
-    },
-    {
-        "id": "FindFromAllPhotos",
-        "title": "Find From All Photos",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/FindFromAllPhotos",
-        "categories": [
-            "photos"
-        ]
-    },
-    {
-        "id": "Favoriting",
-        "title": "Favoriting",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/Favoriting",
-        "categories": [
-            "photos"
-        ]
-    },
-    {
-        "id": "CachingPhotos",
-        "title": "Caching Photos",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/CachingPhotos",
-        "categories": [
-            "photos"
-        ]
-    },
-    {
-        "id": "FindingTakesALongTime",
-        "title": "Finding Takes a Long Time",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/FindingTakesALongTime",
-        "categories": [
-            "photos"
-        ]
-    },
-    {
-        "id": "Controls",
-        "title": "Photos Controls",
-        "url": "https://hkamran80.github.io/FindHelp/Photos/Controls",
-        "categories": [
-            "photos"
         ]
     }
 ]
