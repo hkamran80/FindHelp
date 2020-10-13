@@ -16,13 +16,13 @@ jobs:
             - name: Install Dependencies
               run: |
                   python -m pip install --upgrade pip python-frontmatter
-                  python scripts/datasource_generator.py
+                  python _scripts/datasource_generator.py
             - name: Commit Files
               id: commit
               run: |
                   git config --local user.email "action@github.com"
                   git config --local user.name "github-actions"
-                  git add data/categories.json data/data.json
+                  git add _data/categories.json _data/data.json
                   if [ -z "$(git status --porcelain)" ]; then
                     echo "::set-output name=push::false"
                   else
